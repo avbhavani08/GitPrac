@@ -16,5 +16,7 @@ public static void main(String args[])
             { 9, 10, 11, 12 } };
     print2D(mat);
     System.out.println(Arrays.toString(row));
+    System.out.println(Arrays.toString(green));
+    System.out.println(Arrays.toString(purple));
 }
 }
